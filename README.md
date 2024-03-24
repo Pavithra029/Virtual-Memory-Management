@@ -14,5 +14,5 @@ To implement the following using Virtual Memory Management:
 
 
 
-To compile: make
+To compile: make ,
 To run: ./vmm
